@@ -1,8 +1,43 @@
-# see https://github.com/ioi-2017/tps/blob/master/docs/README.md#gendata
-# TODO
 @subtask samples
-manual example-1.in
+manual sample.in
 
-@subtask full
-gen	20
-gen	30
+@subtask task1
+gen 1 ktbobxaa4yk5ofc
+gen 1 6v6ljl9jvx58lso
+gen 1 0b3mt5vqybsp52d
+gen 1 k91vv1eb18dcmwd
+gen 1 0gk300eikulgjh9
+gen 1 7vnbw6b5cxf0vs3
+gen 1 u4q28pokiuroibi
+gen 1 max 4iqir8fsti43clw
+gen 1 max m1v58kgyfzwczgi
+gen 1 max 9rfmx0galrfokkx
+
+@subtask task2
+gen 2 vbohnfxio0a2qzj
+gen 2 nmk2mdza4b1z1v1
+gen 2 d9e81yl2uoj3pyv
+gen 2 61srfyld5yfqc0v
+gen 2 285bedn9dxoty3z
+gen 2 qxw87sr5v94navd
+gen 2 mp5ves6tzbc5h4j
+gen 2 max 24d799rt6sifs38
+gen 2 max ocqmdleos8hals1
+gen 2 max l8k52uslaug1lu9
+
+@subtask task3
+gen 3 vsgxind2rk9whvn
+gen 3 f53jo00m52jzppr
+gen 3 627ylpcu3g8nm1y
+gen 3 66lv8dzk85mi8ye
+gen 3 7d2iyjo7op4gb9e
+gen 3 qyx5wuqs5r9u0ke
+gen 3 1xgal3gzhp813tg
+gen 3 jgegjbq1gq5osv9
+gen 3 s6pcvp1tf3fadue
+gen 3 hfzedl50h863oy7
+gen 3 max r9rnm9d5673l7fq
+gen 3 max ln9lvjqx04605x7
+gen 3 max fsbd8km9dugm7in
+gen 3 max 8i1cujqpwj2fj78
+gen 3 max 4m10ib8ekggf6od

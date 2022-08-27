@@ -17,8 +17,8 @@ int main() {
 
 	inf.readEof();
 
-	ensure(0<k&&k<=1000000);
-	ensure(0<m&&m<=1000000);
+	ensure(0<k&&k<=1000);
+	ensure(0<m&&m<=1000);
 	ensure(0<=s&&s<=m);
 	ensure(0<=e&&e<=m);
 	

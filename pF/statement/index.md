@@ -3,7 +3,7 @@
 \begin{figure}[h]
 \centering
 \includegraphics[width=]{}
-\caption{}
+\caption{} 
 \end{figure}
 
 在一數線上給定初始座標s、移動範圍[0,m]， 

@@ -13,7 +13,7 @@ int main() {
 	int e = inf.readInt(-1000000000, 1000000000);
 	inf.readSpace();
 	int k = inf.readInt(-1000000000, 1000000000);
-	inf.readEoln();
+	inf.readEoln();  
 
 	inf.readEof();
 

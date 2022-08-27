@@ -5,7 +5,7 @@ using namespace std;
 void gen_norm(long long MIN_V, long long MAX_V) {
 	int m = rnd.next(MIN_V, MAX_V); 
 	int s = rnd.next(0, m);
-	int e = rnd.next(0, m);
+	int e = rnd.next(0, m); 
 	int k = rnd.next(MIN_V, MAX_V);
 	if((k-s+e)%2)k++;
 	if(k>MAX_V)k-=2;

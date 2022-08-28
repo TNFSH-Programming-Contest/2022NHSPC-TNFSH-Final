@@ -62,8 +62,6 @@ int main(int argc,char *argv[]){
 	int task_num = atoi(argv[1]);
 	if(task_num==1)
 		gen_task1((argv[2]=="max"));
-	else if(task_num==2)
-		gen_task(1000, (argv[2]=="max"));
 	else
 		gen_task(mxN, (argv[2]=="max"));
 }

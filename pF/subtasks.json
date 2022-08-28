@@ -8,10 +8,26 @@
             "score": 0,
             "text": "範例輸入輸出",
             "validators": []
-        },
-        "full": {
+        }, 
+        "sub1": {
             "index": 1,
-            "score": 100,
+            "score": 10,
+            "text": "1 \\leq k,m \\leq 20$",
+            "validators": [
+                "validator-2.cpp"
+            ]
+        },
+        "sub2": {
+            "index": 2,
+            "score": 30,
+            "text": "$1 \\leq k,m \\leq 1000$",
+            "validators": [
+                "validator-3.cpp"
+            ]
+        },
+        "all": {
+            "index": 3,
+            "score": 60,
             "text": "無額外限制",
             "validators": []
         }

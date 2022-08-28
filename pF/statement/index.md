@@ -1,35 +1,50 @@
-#
+# 
 
-<!-- \begin{figure}[h]
+\begin{figure}[h]
 \centering
-\includegraphics[width=2in]{TODO.jpg}
-\caption{TODO: 圖片說明}
-\end{figure} -->
+\includegraphics[width=]{}
+\caption{} 
+\end{figure}
 
-TODO: 題目敘述
+在一數線上給定初始座標s、移動範圍[0,m]， 
+每次移動可使座標+1或-1， 
+求移動k次後恰好到達座標e的方法數?
 
 \clearpage
 
 ## 輸入
-TODO: 輸入說明
+一行包含四個整數 $m,s,e,k$。
+$m$ 代表移動範圍，$s$ 代表起點座標，$e$ 代表目標終點座標，$k$ 代表移動次數。
 
 ## 輸出
-TODO: 輸出說明
+輸出有多少種走法mod $10^9+7$。
 
 ## 輸入限制
- - TODO: 輸入限制
+ - $1 \leq k \leq 10^6$
+ - $1 \leq m \leq 10^6$
+ - $0 \leq s, e \leq m$
 
 ## 子任務
 \subtasks
 
 \clearpage
 
-## 範例輸入
+## 範例輸入 1
 ```
-TODO: 範例輸入
+4 2 2 6
 ```
 
-## 範例輸出
+## 範例輸出 1
 ```
-TODO: 範例輸出
+18
+```
+
+## 範例輸入 2
+```
+10 8 2 10
+```
+
+## 範例輸出 2
+```
+45
 ```

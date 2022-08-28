@@ -9,9 +9,17 @@
             "text": "範例輸入輸出",
             "validators": []
         },
-        "full": {
-            "index": 1,
-            "score": 100,
+        "sub1": {
+            "index": 1,  
+            "score": 30,
+            "text": "1 \\leq T \\leq 10^{4}$",
+            "validators": [
+                "validator-2.cpp"
+            ]
+        },
+        "all": {
+            "index": 2,
+            "score": 70,
             "text": "無額外限制",
             "validators": []
         }

@@ -1,5 +1,21 @@
 {
-	"correct.cpp": {
+	"ac.cpp": {
 		"verdict": "model_solution"
+	},
+	"tle.cpp": {
+		"verdict": "partially_correct",
+		"except": {
+			"samples": "correct",
+			"sub1": "correct",
+			"all": "time_limit_exceed"  
+		}
+	},
+	"wa.cpp": {
+		"verdict": "incorrect",
+		"except": {
+			"samples": "correct",
+			"sub1": "incorrect",
+			"all": "incorrect"
+		}
 	}
 }

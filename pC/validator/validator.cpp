@@ -1,16 +1,23 @@
+#include <bits/stdc++.h>
 #include "testlib.h"
-using namespace std;
 
-const int MAXN = 1000;
+using namespace std;
 
 int main() {
 	registerValidation();
-	// about testlib, see https://codeforces.com/blog/entry/18291
 
-	// TODO
-	inf.readInt(1, MAXN, "n");
+	int N = inf.readInt(-1000000000, 1000000000);
 	inf.readEoln();
-	inf.readEof();
+	
+	ensure(0<N&&N<=1000000);
+	  
+	for(int i=0;i<N;i++){
+		int ai = inf.readInt(-1000000000, 1000000000);
+		inf.readSpace();
+	}
+	inf.readEoln();
 
+	inf.readEof();
+	
 	return 0;
 }

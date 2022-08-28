@@ -13,12 +13,12 @@ int main() {
 	int e = inf.readInt(-1000000000, 1000000000);
 	inf.readSpace();
 	int k = inf.readInt(-1000000000, 1000000000);
-	inf.readEoln();  
+	inf.readEoln();
 
 	inf.readEof();
 
-	ensure(0<k&&k<=1000000);
-	ensure(0<m&&m<=1000000);
+	ensure(0<k&&k<=1000);
+	ensure(0<m&&m<=1000);
 	ensure(0<=s&&s<=m);
 	ensure(0<=e&&e<=m);
 	

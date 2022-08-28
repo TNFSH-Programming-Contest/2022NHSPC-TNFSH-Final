@@ -2,7 +2,7 @@
 #include "testlib.h"
 #include<bits/stdc++.h>
 using namespace std;
-const int mxN = 200000, V = 1e9;
+const int mxN = 100000, V = 1e9;
 
 void validate_test(int n,int q,int query_type_l,int query_type_r,int type3 = 0){
 	map<int,int>cnt;

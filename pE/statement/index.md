@@ -28,7 +28,7 @@ $t = 4$，則接下來會有兩個正整數 $l,r$ 。
 最後一行輸出操作後的數列 $a$ 。
 
 ## 輸入限制
-- $1 \leq q,n \leq 2 \times 10^5$
+- $1 \leq q,n \leq 10^5$
 - $-10^9 \leq a_i \leq 10^9, \forall 1 \leq i \leq n$
 - $type \in \{1,2,3,4\}$
 - $\forall type \in \{1,2\}$ 的詢問， $-10^9 \leq x \leq 10^9$ 

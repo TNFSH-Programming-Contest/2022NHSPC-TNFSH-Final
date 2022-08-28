@@ -4,7 +4,7 @@
 using namespace std;
 using namespace __gnu_pbds;
 
-const int mxN = 2e5;
+const int mxN = 1e5;
 const int V = 1e9;
 
 tree<int,null_type,less<int>,rb_tree_tag,tree_order_statistics_node_update>tr;

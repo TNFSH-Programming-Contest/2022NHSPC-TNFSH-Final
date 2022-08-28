@@ -1,0 +1,37 @@
+ac.cpp
+solution            compile[OK]
+0-01                sol[OK]    0.017     check[OK]        1  [Correct]             
+1-01                sol[OK]    0.143     check[OK]        1  [Correct]             
+1-02                sol[OK]    0.181     check[OK]        1  [Correct]             
+1-03                sol[OK]    0.246     check[OK]        1  [Correct]             
+1-04                sol[OK]    0.151     check[OK]        1  [Correct]             
+1-05                sol[OK]    0.211     check[OK]        1  [Correct]             
+1-06                sol[OK]    0.222     check[OK]        1  [Correct]             
+1-07                sol[OK]    0.218     check[OK]        1  [Correct]             
+1-08                sol[OK]    0.116     check[OK]        1  [Correct]             
+1-09                sol[OK]    0.285     check[OK]        1  [Correct]             
+1-10                sol[OK]    0.255     check[OK]        1  [Correct]             
+2-01                sol[OK]    0.336     check[OK]        1  [Correct]             
+2-02                sol[OK]    0.213     check[OK]        1  [Correct]             
+2-03                sol[OK]    0.261     check[OK]        1  [Correct]             
+2-04                sol[OK]    0.304     check[OK]        1  [Correct]             
+2-05                sol[OK]    0.217     check[OK]        1  [Correct]             
+2-06                sol[OK]    0.234     check[OK]        1  [Correct]             
+2-07                sol[OK]    0.141     check[OK]        1  [Correct]             
+2-08                sol[OK]    0.225     check[OK]        1  [Correct]             
+2-09                sol[OK]    0.264     check[OK]        1  [Correct]             
+2-10                sol[OK]    0.187     check[OK]        1  [Correct]             
+2-11                sol[OK]    0.236     check[OK]        1  [Correct]             
+2-12                sol[OK]    0.252     check[OK]        1  [Correct]             
+2-13                sol[OK]    0.178     check[OK]        1  [Correct]             
+2-14                sol[OK]    0.132     check[OK]        1  [Correct]             
+2-15                sol[OK]    0.222     check[OK]        1  [Correct]             
+samples             [1/1 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
+task1               [10/10 tests]  [Correct]             [20/20 pts]    [match with expected]             1-01
+task2               [15/15 tests]  [Correct]             [80/80 pts]    [match with expected]             2-01
+
+Subtask summary
+100/100 pts
+
+Finished.
+

@@ -14,3 +14,7 @@
 | E | [statement](pE/statement) [md](pE/statement/index.md) [pdf](pE/statement/index.pdf) | [gen](pE/gen) | [validator](pE/validator) | [solution](pE/solution) [check](pE/solutions-check.txt) | [tests](pE/tests) | [problem](pE/problem.json) [solutions](pE/solutions.json) [subtasks](pE/subtasks.json) |
 | F | [statement](pF/statement) [md](pF/statement/index.md) [pdf](pF/statement/index.pdf) | [gen](pF/gen) | [validator](pF/validator) | [solution](pF/solution) [check](pF/solutions-check.txt) | [tests](pF/tests) | [problem](pF/problem.json) [solutions](pF/solutions.json) [subtasks](pF/subtasks.json) |
 <!-- new problem -->
+
+## Subtasks
+<!-- subtasks start -->
+<!-- subtasks end -->

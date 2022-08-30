@@ -7,7 +7,7 @@
 		"except": {
 			"samples": "correct",
 			"sub1": "correct",
-			"all": "time_limit_exceed"  
+			"all": "time_limit"
 		}
 	},
 	"wa.cpp": {

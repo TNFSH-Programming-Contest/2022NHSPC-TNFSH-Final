@@ -9,7 +9,7 @@ int main() {
 	int N = inf.readInt(-1000000000, 1000000000);
 	inf.readSpace();
 	int M = inf.readInt(-1000000000, 1000000000);
-	inf.readSpace();
+	inf.readEoln();
 	int T = inf.readInt(-1000000000, 1000000000);
 	inf.readEoln();
 	ensure(0<N&&N<=100);

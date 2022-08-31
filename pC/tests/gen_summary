@@ -1,0 +1,45 @@
+# test_name gen_line_number gen_line_content
+0-01	  2	manual sample-01.in
+0-02	  3	manual sample-02.in
+1-01	  6	manual all-01.in
+1-02	  7	gen norm 2 1000 sjjc2
+1-03	  8	gen norm 2 1000 dji3m
+1-04	  9	gen norm 2 1000 dfso2
+1-05	 10	gen norm 2 1000 120ie
+1-06	 11	gen norm 2 1000 9s9ud
+1-07	 12	gen norm 2 1000 wq3jk
+1-08	 13	gen norm 2 1000 q9jd1
+1-09	 14	gen norm 2 1000 wjqj0
+1-10	 15	gen norm 2 1000 w23p6
+1-11	 16	gen norm 2 1000 jfzaq
+1-12	 17	gen norm 2 1000 xcbnb
+1-13	 18	gen norm 2 1000 vmlpo
+1-14	 19	gen norm 2 1000 fg210
+1-15	 20	gen norm 2 1000 9wjqn
+1-16	 21	gen norm 2 1000 dii86
+2-01	 24	manual all-01.in
+2-02	 25	gen norm 2 100000 c9k2d
+2-03	 26	gen norm 2 100000 krl12
+2-04	 27	gen norm 2 100000 lkbnp
+2-05	 28	gen norm 2 100000 ofogh
+2-06	 29	gen norm 2 100000 pquyd
+2-07	 30	gen norm 2 100000 ssfhe
+2-08	 31	gen norm 2 100000 qwert
+2-09	 32	gen norm 2 100000 yuiop
+2-10	 33	gen norm 2 100000 lkjgh
+2-11	 34	gen norm 2 100000 afsdv
+2-12	 35	gen norm 2 100000 vcbxz
+2-13	 36	gen norm 2 100000 nmkcu
+2-14	 37	gen norm 2 100000 34j8f
+2-15	 38	gen norm 2 100000 wej8d
+2-16	 39	gen norm 2 100000 1jsic
+2-17	 40	gen norm 2 100000 dum67
+2-18	 41	gen norm 2 100000 w8710
+2-19	 42	gen norm 2 100000 weu34
+2-20	 43	gen norm 2 100000 djivo
+2-21	 44	gen norm 2 100000 swi8s
+2-22	 45	gen norm 2 100000 dj2ko
+2-23	 46	gen norm 2 100000 si88a
+2-24	 47	gen norm 2 100000 diloz
+2-25	 48	gen norm 2 100000 xuwmk
+2-26	 49	gen norm 2 100000 dizzz

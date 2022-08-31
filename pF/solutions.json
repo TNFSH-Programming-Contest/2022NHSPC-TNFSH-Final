@@ -8,7 +8,7 @@
 			"samples": "correct",
 			"sub1": "correct",
 			"sub2": "correct",
-			"all": "time_limit_exceed" 
+			"all": "time_limit"
 		}
 	},
 	"wa.cpp": {

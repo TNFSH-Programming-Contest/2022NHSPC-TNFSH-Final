@@ -14,3 +14,15 @@
 | E | [statement](pE/statement) [md](pE/statement/index.md) [pdf](pE/statement/index.pdf) | [gen](pE/gen) | [validator](pE/validator) | [solution](pE/solution) [check](pE/solutions-check.txt) | [tests](pE/tests) | [problem](pE/problem.json) [solutions](pE/solutions.json) [subtasks](pE/subtasks.json) |
 | F | [statement](pF/statement) [md](pF/statement/index.md) [pdf](pF/statement/index.pdf) | [gen](pF/gen) | [validator](pF/validator) | [solution](pF/solution) [check](pF/solutions-check.txt) | [tests](pF/tests) | [problem](pF/problem.json) [solutions](pF/solutions.json) [subtasks](pF/subtasks.json) |
 <!-- new problem -->
+
+## Subtasks
+<!-- subtasks start -->
+| | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| A | 20<br>對於每筆詢問， $n \leq k$ | 80<br>無額外限制 |
+| B | 30<br>1 \leq N \leq 10^{4}$ | 70<br>無額外限制 |
+| C | 30<br>1 \leq T \leq 10^{4}$ | 70<br>無額外限制 |
+| D | 100<br>無額外限制 |
+| E | 5<br>只有第 $1$ 以及第 $2$ 種詢問 | 20<br>$1 \leq n,q \leq 1000$ | 30<br>$\forall type = 3$ 的詢問， $t=1$ | 45<br>無額外限制 |
+| F | 10<br>1 \leq k,m \leq 20$ | 30<br>$1 \leq k,m \leq 1000$ | 60<br>無額外限制 |
+<!-- subtasks end -->

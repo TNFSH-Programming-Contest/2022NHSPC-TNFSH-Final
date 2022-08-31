@@ -1,6 +1,4 @@
-#pragma GCC optimize("Ofast")
 #include<bits/stdc++.h>
-#include<bits/extc++.h>
  
 #define F first
 #define S second

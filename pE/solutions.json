@@ -6,7 +6,7 @@
 		"verdict": "partially_correct",
 		"except": {
 			"samples": "correct",
-			"task1": "time_limit",
+			"task1": "correct",
 			"task2": "correct",
 			"task3": "time_limit",
 			"task4": "time_limit"

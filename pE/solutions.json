@@ -1,5 +1,15 @@
 {
 	"ac.cpp": {
 		"verdict": "model_solution"
+	},
+	"tle.cpp": {
+		"verdict": "partially_correct",
+		"except": {
+			"samples": "correct",
+			"task1": "time_limit",
+			"task2": "correct",
+			"task3": "time_limit",
+			"task4": "time_limit"
+		}
 	}
 }

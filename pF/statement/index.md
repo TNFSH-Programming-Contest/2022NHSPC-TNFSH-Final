@@ -1,13 +1,13 @@
-# 
+#
 
 <!-- \begin{figure}[h]
 \centering
-\includegraphics[width=2in]{TODO.jpg}
+\includegraphics[width=12cm]{TODO.jpg}
 \caption{TODO: 圖片說明}
 \end{figure} -->
 
-在一數線上給定初始座標 $s$ 、移動範圍 $[0, m]$ ， 
-每次移動可使座標 $+1$ 或 $-1$ ， 
+在一數線上給定初始座標 $s$ 、移動範圍 $[0, m]$ ，
+每次移動可使座標 $+1$ 或 $-1$ ，
 求移動 $k$ 次後恰好到達座標 $e$ 的方法數?
 
 \clearpage

@@ -2,7 +2,7 @@
 
 <!-- \begin{figure}[h]
 \centering
-\includegraphics[width=2in]{TODO.jpg}
+\includegraphics[width=12cm]{TODO.jpg}
 \caption{TODO: 圖片說明}
 \end{figure} -->
 

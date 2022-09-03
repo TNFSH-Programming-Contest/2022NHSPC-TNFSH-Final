@@ -14,7 +14,7 @@
         "task1": {
             "index": 1,
             "score": 5,
-            "text": "只有第 $1$ 以及第 $2$ 種詢問",
+            "text": "只有事件1及事件2",
             "validators": [
                 "task1_val.cpp"
             ]
@@ -22,7 +22,7 @@
         "task2": {
             "index": 2,
             "score": 20,
-            "text": "$1 \\leq n,q \\leq 1000$",
+            "text": "$1 \\leq n, q \\leq 1000$",
             "validators": [
                 "task2_val.cpp"
             ]
@@ -30,7 +30,7 @@
         "task3": {
             "index": 3,
             "score": 30,
-            "text": "$\\forall type = 3$ 的詢問， $t=1$",
+            "text": "對於事件3，$k = 1$",
             "validators": [
                 "task3_val.cpp"
             ]

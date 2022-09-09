@@ -11,43 +11,29 @@ void gen_task1(bool Max){
 	cout << n << ' ' << q << '\n';
 	for(int i=0;i<n;i++)
 		cout << rnd.next(1,mxV) << " \n"[i==n-1];
-	set<int>s;
-	while(q--){
-		int k;
-		do{
-			k = rnd.next(n+1,mxV);
-		}while(s.count(k));
-		s.insert(k);
-		cout << k << '\n';
-	}
+	while(q--)
+		cout << rnd.next(n+1,mxV) << '\n';
 }
 
 void gen_task(int N, bool Max){
-	int n = rnd.next(1,N), q = rnd.next(1,N);
+	int n = rnd.next(1,N), q = rnd.next(1,N), edge = rnx.next(3);
 	if(Max)
 		n = N, q = N;
 	cout << n << ' ' << q << '\n';
 	for(int i=0;i<n;i++)
 		cout << rnd.next(1,mxV) << " \n"[i==n-1];
+	if(edge == 0){
+		for(int i=0;i<q;i++)
+			cout << rnd.next(1,3) << '\n';
+		return;
+	}
 	int q1 = min(n,9*q/10);
 	int q2 = q-q1;
-	set<int>s;
-	vector<int>v,tmp;
-	for(int i=1;i<=n;i++)
-		tmp.push_back(i);
-	shuffle(tmp.begin(), tmp.end());
-	while(q1--){
-		v.push_back(tmp.back());
-		tmp.pop_back();
-	}
-	while(q2--){
-		int k;
-		do{
-			k = rnd.next(n+1,mxV);
-		}while(s.count(k));
-		s.insert(k);
-		v.push_back(k);
-	}
+	vector<int>v;
+	while(q1--)
+		v.push_back(rnx.next(1,n));
+	while(q2--)
+		v.push_back(rnd.next(n+1,mxV));
 	shuffle(v.begin(), v.end());
 	for(auto i:v)
 		cout << i << '\n';

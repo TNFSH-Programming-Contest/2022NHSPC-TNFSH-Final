@@ -21,7 +21,6 @@ int main(int argc,char *argv[]){
 	set<int>s;
 	while(q--){
 		int k = inf.readInt(1,V,"k");
-		ensuref(!s.count(k), "k has occured more than once\n");
 		s.insert(k);
 		inf.readEoln();
 	}

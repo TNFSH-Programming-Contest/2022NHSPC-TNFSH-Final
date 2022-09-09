@@ -16,7 +16,7 @@ void gen_task1(bool Max){
 }
 
 void gen_task(int N, bool Max){
-	int n = rnd.next(1,N), q = rnd.next(1,N), edge = rnx.next(3);
+	int n = rnd.next(1,N), q = rnd.next(1,N), edge = rnd.next(3);
 	if(Max)
 		n = N, q = N;
 	cout << n << ' ' << q << '\n';

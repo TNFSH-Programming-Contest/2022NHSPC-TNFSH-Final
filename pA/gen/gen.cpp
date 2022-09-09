@@ -31,7 +31,7 @@ void gen_task(int N, bool Max){
 	int q2 = q-q1;
 	vector<int>v;
 	while(q1--)
-		v.push_back(rnx.next(1,n));
+		v.push_back(rnd.next(1,n));
 	while(q2--)
 		v.push_back(rnd.next(n+1,mxV));
 	shuffle(v.begin(), v.end());

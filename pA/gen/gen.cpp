@@ -2,7 +2,7 @@
 #include"testlib.h"
 using namespace std;
 
-const int mxN = 1e6, mxV = 1e9;
+const int mxN = 2e5, mxV = 1e9;
 
 void gen_task1(bool Max){
 	int n = rnd.next(1,mxN), q = rnd.next(1,mxN);

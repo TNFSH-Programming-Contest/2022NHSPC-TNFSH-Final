@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-const int N = 1e6+10;
+const int N = 2e5+10; 	
 
 int n,q;
 long long a[N];

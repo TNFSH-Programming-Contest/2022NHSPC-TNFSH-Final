@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 #include"testlib.h"
 using namespace std;
-const int mxN = 1e6, V = 1e9;
+const int mxN = 2e5, V = 1e9;
 
 int main(int argc,char *argv[]){
 	registerValidation(argc,argv);

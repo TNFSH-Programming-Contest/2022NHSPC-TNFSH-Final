@@ -11,7 +11,7 @@
         },
         "sub1": {
             "index": 1,
-            "score": 30,
+            "score": 49,
             "text": "$1 \\leq T \\leq 10^{4}$",
             "validators": [
                 "validator-2.cpp"
@@ -19,7 +19,7 @@
         },
         "all": {
             "index": 2,
-            "score": 70,
+            "score": 51,
             "text": "無額外限制",
             "validators": []
         }

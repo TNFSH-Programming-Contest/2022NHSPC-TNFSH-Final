@@ -14,8 +14,8 @@
 	"wa.cpp": {
 		"verdict": "incorrect",
 		"except": {
-			"samples": "incorrect",
-			"sub1": "incorrect",
+			"samples": "correct",
+			"sub1": "correct",
 			"sub2": "incorrect",
 			"all": "incorrect"
 		}

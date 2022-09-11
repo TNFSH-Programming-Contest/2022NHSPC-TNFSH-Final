@@ -11,7 +11,7 @@
         }, 
         "sub1": {
             "index": 1,
-            "score": 10,
+            "score": 9,
             "text": "$k,m \\leq 20$",
             "validators": [
                 "validator-2.cpp"
@@ -19,7 +19,7 @@
         },
         "sub2": {
             "index": 2,
-            "score": 30,
+            "score": 28,
             "text": "$k,m \\leq 1000$",
             "validators": [
                 "validator-3.cpp"
@@ -27,7 +27,7 @@
         },
         "all": {
             "index": 3,
-            "score": 60,
+            "score": 63,
             "text": "無額外限制",
             "validators": []
         }

@@ -22,6 +22,7 @@ int main(){
 	ios::sync_with_stdio(0);cin.tie(0);
 	LL m,s,e,k;
 	cin>>m>>s>>e>>k;
+	k--;
 	if((k-e+s)%2){
 		cout<<0<<'\n'; 
 		return 0;

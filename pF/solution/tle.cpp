@@ -7,6 +7,7 @@ int main(){
 	ios::sync_with_stdio(0);cin.tie(0);
 	LL m,s,e,k;
 	cin>>m>>s>>e>>k;
+	k--;
 	dp[0][s]=1;
 	for(int i=1;i<=k;i++){
 		for(int j=0;j<=m;j++){

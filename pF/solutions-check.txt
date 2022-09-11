@@ -1,54 +1,54 @@
 ac.cpp
 solution            compile[OK]
-0-01                sol[OK]    0.017     check[OK]        1  [Correct]               
-0-02                sol[OK]    0.014     check[OK]        1  [Correct]               
+0-01                sol[OK]    0.013     check[OK]        1  [Correct]               
+0-02                sol[OK]    0.013     check[OK]        1  [Correct]               
 1-01                sol[OK]    0.014     check[OK]        1  [Correct]               
-1-02                sol[OK]    0.015     check[OK]        1  [Correct]               
-1-03                sol[OK]    0.015     check[OK]        1  [Correct]               
-1-04                sol[OK]    0.015     check[OK]        1  [Correct]               
-1-05                sol[OK]    0.015     check[OK]        1  [Correct]               
-1-06                sol[OK]    0.014     check[OK]        1  [Correct]               
-1-07                sol[OK]    0.018     check[OK]        1  [Correct]               
+1-02                sol[OK]    0.013     check[OK]        1  [Correct]               
+1-03                sol[OK]    0.013     check[OK]        1  [Correct]               
+1-04                sol[OK]    0.013     check[OK]        1  [Correct]               
+1-05                sol[OK]    0.014     check[OK]        1  [Correct]               
+1-06                sol[OK]    0.013     check[OK]        1  [Correct]               
+1-07                sol[OK]    0.013     check[OK]        1  [Correct]               
 2-01                sol[OK]    0.014     check[OK]        1  [Correct]               
-2-02                sol[OK]    0.015     check[OK]        1  [Correct]               
-2-03                sol[OK]    0.015     check[OK]        1  [Correct]               
-2-04                sol[OK]    0.014     check[OK]        1  [Correct]               
-2-05                sol[OK]    0.015     check[OK]        1  [Correct]               
-2-06                sol[OK]    0.015     check[OK]        1  [Correct]               
+2-02                sol[OK]    0.014     check[OK]        1  [Correct]               
+2-03                sol[OK]    0.014     check[OK]        1  [Correct]               
+2-04                sol[OK]    0.013     check[OK]        1  [Correct]               
+2-05                sol[OK]    0.013     check[OK]        1  [Correct]               
+2-06                sol[OK]    0.013     check[OK]        1  [Correct]               
 2-07                sol[OK]    0.014     check[OK]        1  [Correct]               
 2-08                sol[OK]    0.014     check[OK]        1  [Correct]               
 2-09                sol[OK]    0.014     check[OK]        1  [Correct]               
 2-10                sol[OK]    0.014     check[OK]        1  [Correct]               
-2-11                sol[OK]    0.015     check[OK]        1  [Correct]               
-2-12                sol[OK]    0.016     check[OK]        1  [Correct]               
-2-13                sol[OK]    0.015     check[OK]        1  [Correct]               
-3-01                sol[OK]    0.015     check[OK]        1  [Correct]               
+2-11                sol[OK]    0.014     check[OK]        1  [Correct]               
+2-12                sol[OK]    0.013     check[OK]        1  [Correct]               
+2-13                sol[OK]    0.013     check[OK]        1  [Correct]               
+3-01                sol[OK]    0.013     check[OK]        1  [Correct]               
 3-02                sol[OK]    0.014     check[OK]        1  [Correct]               
-3-03                sol[OK]    0.166     check[OK]        1  [Correct]               
-3-04                sol[OK]    0.027     check[OK]        1  [Correct]               
-3-05                sol[OK]    0.016     check[OK]        1  [Correct]               
-3-06                sol[OK]    0.021     check[OK]        1  [Correct]               
-3-07                sol[OK]    0.017     check[OK]        1  [Correct]               
-3-08                sol[OK]    0.018     check[OK]        1  [Correct]               
-3-09                sol[OK]    0.016     check[OK]        1  [Correct]               
-3-10                sol[OK]    0.019     check[OK]        1  [Correct]               
-3-11                sol[OK]    0.023     check[OK]        1  [Correct]               
-3-12                sol[OK]    0.021     check[OK]        1  [Correct]               
+3-03                sol[OK]    0.173     check[OK]        1  [Correct]               
+3-04                sol[OK]    0.017     check[OK]        1  [Correct]               
+3-05                sol[OK]    0.015     check[OK]        1  [Correct]               
+3-06                sol[OK]    0.020     check[OK]        1  [Correct]               
+3-07                sol[OK]    0.016     check[OK]        1  [Correct]               
+3-08                sol[OK]    0.017     check[OK]        1  [Correct]               
+3-09                sol[OK]    0.014     check[OK]        1  [Correct]               
+3-10                sol[OK]    0.017     check[OK]        1  [Correct]               
+3-11                sol[OK]    0.021     check[OK]        1  [Correct]               
+3-12                sol[OK]    0.019     check[OK]        1  [Correct]               
 3-13                sol[OK]    0.017     check[OK]        1  [Correct]               
-3-14                sol[OK]    0.023     check[OK]        1  [Correct]               
-3-15                sol[OK]    0.023     check[OK]        1  [Correct]               
-3-16                sol[OK]    0.028     check[OK]        1  [Correct]               
-3-17                sol[OK]    0.017     check[OK]        1  [Correct]               
+3-14                sol[OK]    0.022     check[OK]        1  [Correct]               
+3-15                sol[OK]    0.020     check[OK]        1  [Correct]               
+3-16                sol[OK]    0.020     check[OK]        1  [Correct]               
+3-17                sol[OK]    0.018     check[OK]        1  [Correct]               
 3-18                sol[OK]    0.022     check[OK]        1  [Correct]               
 3-19                sol[OK]    0.019     check[OK]        1  [Correct]               
-3-20                sol[OK]    0.020     check[OK]        1  [Correct]               
-3-21                sol[OK]    0.021     check[OK]        1  [Correct]               
-3-22                sol[OK]    0.022     check[OK]        1  [Correct]               
-3-23                sol[OK]    0.020     check[OK]        1  [Correct]               
+3-20                sol[OK]    0.016     check[OK]        1  [Correct]               
+3-21                sol[OK]    0.019     check[OK]        1  [Correct]               
+3-22                sol[OK]    0.021     check[OK]        1  [Correct]               
+3-23                sol[OK]    0.018     check[OK]        1  [Correct]               
 samples             [2/2 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
-sub1                [7/7 tests]    [Correct]             [10/10 pts]    [match with expected]             1-01
-sub2                [13/13 tests]  [Correct]             [30/30 pts]    [match with expected]             2-01
-all                 [23/23 tests]  [Correct]             [60/60 pts]    [match with expected]             3-01
+sub1                [7/7 tests]    [Correct]             [9/9 pts]      [match with expected]             1-01
+sub2                [13/13 tests]  [Correct]             [28/28 pts]    [match with expected]             2-01
+all                 [23/23 tests]  [Correct]             [63/63 pts]    [match with expected]             3-01
 
 Subtask summary
 100/100 pts
@@ -57,115 +57,115 @@ Finished.
 
 tle.cpp
 solution            compile[OK]
-0-01                sol[OK]    0.015     check[OK]        1  [Correct]               
-0-02                sol[OK]    0.015     check[OK]        1  [Correct]               
-1-01                sol[OK]    0.015     check[OK]        1  [Correct]               
-1-02                sol[OK]    0.015     check[OK]        1  [Correct]               
-1-03                sol[OK]    0.016     check[OK]        1  [Correct]               
-1-04                sol[OK]    0.016     check[OK]        1  [Correct]               
-1-05                sol[OK]    0.015     check[OK]        1  [Correct]               
-1-06                sol[OK]    0.017     check[OK]        1  [Correct]               
-1-07                sol[OK]    0.014     check[OK]        1  [Correct]               
-2-01                sol[OK]    0.016     check[OK]        1  [Correct]               
-2-02                sol[OK]    0.021     check[OK]        1  [Correct]               
-2-03                sol[OK]    0.016     check[OK]        1  [Correct]               
-2-04                sol[OK]    0.016     check[OK]        1  [Correct]               
-2-05                sol[OK]    0.016     check[OK]        1  [Correct]               
-2-06                sol[OK]    0.017     check[OK]        1  [Correct]               
-2-07                sol[OK]    0.016     check[OK]        1  [Correct]               
-2-08                sol[OK]    0.018     check[OK]        1  [Correct]               
-2-09                sol[OK]    0.017     check[OK]        1  [Correct]               
-2-10                sol[OK]    0.020     check[OK]        1  [Correct]               
-2-11                sol[OK]    0.017     check[OK]        1  [Correct]               
-2-12                sol[OK]    0.018     check[OK]        1  [Correct]               
-2-13                sol[OK]    0.018     check[OK]        1  [Correct]               
-3-01                sol[OK]    0.016     check[OK]        1  [Correct]               
-3-02                sol[OK]    0.015     check[OK]        1  [Correct]               
-3-03                sol[OK]    0.030     check[OK]        1  [Correct]               
-3-04                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-05                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-06                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-07                sol[FAIL]  3.009     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-08                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-09                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-10                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-11                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-12                sol[FAIL]  3.009     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-13                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-14                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-15                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-16                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-17                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-18                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-19                sol[FAIL]  3.009     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-20                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-21                sol[FAIL]  3.007     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-22                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-3-23                sol[FAIL]  3.007     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-samples             [2/2 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
-sub1                [7/7 tests]    [Correct]             [10/10 pts]    [match with expected]             1-01
-sub2                [13/13 tests]  [Correct]             [30/30 pts]    [match with expected]             2-01
-all                 [23/23 tests]  [Time Limit Exceeded] [0/60 pts]     [match with expected]             3-04
-
-Subtask summary
-40/100 pts
-
-Finished.
-
-wa.cpp
-solution            compile[OK]
-0-01                sol[OK]    0.015     check[OK]        1  [Correct]               
+0-01                sol[OK]    0.014     check[OK]        1  [Correct]               
 0-02                sol[OK]    0.014     check[OK]        1  [Correct]               
-1-01                sol[OK]    0.015     check[OK]        1  [Correct]               
+1-01                sol[OK]    0.014     check[OK]        1  [Correct]               
 1-02                sol[OK]    0.014     check[OK]        1  [Correct]               
 1-03                sol[OK]    0.014     check[OK]        1  [Correct]               
 1-04                sol[OK]    0.014     check[OK]        1  [Correct]               
 1-05                sol[OK]    0.014     check[OK]        1  [Correct]               
 1-06                sol[OK]    0.014     check[OK]        1  [Correct]               
-1-07                sol[OK]    0.014     check[OK]        1  [Correct]               
-2-01                sol[OK]    0.015     check[OK]        1  [Correct]               
-2-02                sol[OK]    0.016     check[OK]        1  [Correct]               
-2-03                sol[OK]    0.015     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-2-04                sol[OK]    0.015     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-2-05                sol[OK]    0.017     check[OK]        1  [Correct]               
+1-07                sol[OK]    0.015     check[OK]        1  [Correct]               
+2-01                sol[OK]    0.014     check[OK]        1  [Correct]               
+2-02                sol[OK]    0.015     check[OK]        1  [Correct]               
+2-03                sol[OK]    0.014     check[OK]        1  [Correct]               
+2-04                sol[OK]    0.014     check[OK]        1  [Correct]               
+2-05                sol[OK]    0.016     check[OK]        1  [Correct]               
 2-06                sol[OK]    0.017     check[OK]        1  [Correct]               
-2-07                sol[OK]    0.013     check[OK]        1  [Correct]               
+2-07                sol[OK]    0.015     check[OK]        1  [Correct]               
 2-08                sol[OK]    0.016     check[OK]        1  [Correct]               
-2-09                sol[OK]    0.014     check[OK]        1  [Correct]               
-2-10                sol[OK]    0.014     check[OK]        1  [Correct]               
-2-11                sol[OK]    0.015     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-2-12                sol[OK]    0.014     check[OK]        1  [Correct]               
-2-13                sol[OK]    0.018     check[OK]        1  [Correct]               
-3-01                sol[OK]    0.017     check[OK]        1  [Correct]               
-3-02                sol[OK]    0.016     check[OK]        1  [Correct]               
-3-03                sol[OK]    0.024     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-3-04                sol[OK]    0.017     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-3-05                sol[OK]    0.016     check[OK]        1  [Correct]               
-3-06                sol[OK]    0.020     check[OK]        1  [Correct]               
-3-07                sol[OK]    0.018     check[OK]        1  [Correct]               
-3-08                sol[OK]    0.019     check[OK]        1  [Correct]               
-3-09                sol[OK]    0.015     check[OK]        1  [Correct]               
-3-10                sol[OK]    0.019     check[OK]        1  [Correct]               
-3-11                sol[OK]    0.023     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-3-12                sol[OK]    0.021     check[OK]        1  [Correct]               
-3-13                sol[OK]    0.018     check[OK]        1  [Correct]               
-3-14                sol[OK]    0.022     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-3-15                sol[OK]    0.021     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-3-16                sol[OK]    0.022     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-3-17                sol[OK]    0.020     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-3-18                sol[OK]    0.025     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-3-19                sol[OK]    0.019     check[OK]        1  [Correct]               
-3-20                sol[OK]    0.016     check[OK]        1  [Correct]               
-3-21                sol[OK]    0.020     check[OK]        1  [Correct]               
-3-22                sol[OK]    0.021     check[OK]        1  [Correct]               
-3-23                sol[OK]    0.020     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-samples             [2/2 tests]    [Correct]             [0/0 pts]      [expected: incorrect]             0-01
-sub1                [7/7 tests]    [Correct]             [10/10 pts]    [expected: incorrect]             1-01
-sub2                [13/13 tests]  [Wrong Answer]        [0/30 pts]     [match with expected]             2-03
-all                 [23/23 tests]  [Wrong Answer]        [0/60 pts]     [match with expected]             3-03
+2-09                sol[OK]    0.015     check[OK]        1  [Correct]               
+2-10                sol[OK]    0.016     check[OK]        1  [Correct]               
+2-11                sol[OK]    0.014     check[OK]        1  [Correct]               
+2-12                sol[OK]    0.017     check[OK]        1  [Correct]               
+2-13                sol[OK]    0.015     check[OK]        1  [Correct]               
+3-01                sol[OK]    0.014     check[OK]        1  [Correct]               
+3-02                sol[OK]    0.014     check[OK]        1  [Correct]               
+3-03                sol[OK]    0.026     check[OK]        1  [Correct]               
+3-04                sol[FAIL]  3.007     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-05                sol[FAIL]  3.006     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-06                sol[FAIL]  3.006     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-07                sol[FAIL]  3.006     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-08                sol[FAIL]  3.006     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-09                sol[FAIL]  3.006     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-10                sol[FAIL]  3.006     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-11                sol[FAIL]  3.007     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-12                sol[FAIL]  3.006     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-13                sol[FAIL]  3.007     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-14                sol[FAIL]  3.007     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-15                sol[FAIL]  3.007     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-16                sol[FAIL]  3.007     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-17                sol[FAIL]  3.006     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-18                sol[FAIL]  3.007     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-19                sol[FAIL]  3.007     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-20                sol[FAIL]  3.007     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-21                sol[FAIL]  3.007     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-22                sol[FAIL]  3.007     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+3-23                sol[FAIL]  3.009     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
+samples             [2/2 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
+sub1                [7/7 tests]    [Correct]             [9/9 pts]      [match with expected]             1-01
+sub2                [13/13 tests]  [Correct]             [28/28 pts]    [match with expected]             2-01
+all                 [23/23 tests]  [Time Limit Exceeded] [0/63 pts]     [match with expected]             3-04
 
 Subtask summary
-10/100 pts
+37/100 pts
+
+Finished.
+
+wa.cpp
+solution            compile[OK]
+0-01                sol[OK]    0.013     check[OK]        1  [Correct]               
+0-02                sol[OK]    0.013     check[OK]        1  [Correct]               
+1-01                sol[OK]    0.013     check[OK]        1  [Correct]               
+1-02                sol[OK]    0.013     check[OK]        1  [Correct]               
+1-03                sol[OK]    0.013     check[OK]        1  [Correct]               
+1-04                sol[OK]    0.012     check[OK]        1  [Correct]               
+1-05                sol[OK]    0.013     check[OK]        1  [Correct]               
+1-06                sol[OK]    0.012     check[OK]        1  [Correct]               
+1-07                sol[OK]    0.013     check[OK]        1  [Correct]               
+2-01                sol[OK]    0.012     check[OK]        1  [Correct]               
+2-02                sol[OK]    0.013     check[OK]        1  [Correct]               
+2-03                sol[OK]    0.013     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+2-04                sol[OK]    0.013     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+2-05                sol[OK]    0.013     check[OK]        1  [Correct]               
+2-06                sol[OK]    0.013     check[OK]        1  [Correct]               
+2-07                sol[OK]    0.012     check[OK]        1  [Correct]               
+2-08                sol[OK]    0.013     check[OK]        1  [Correct]               
+2-09                sol[OK]    0.013     check[OK]        1  [Correct]               
+2-10                sol[OK]    0.013     check[OK]        1  [Correct]               
+2-11                sol[OK]    0.013     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+2-12                sol[OK]    0.013     check[OK]        1  [Correct]               
+2-13                sol[OK]    0.013     check[OK]        1  [Correct]               
+3-01                sol[OK]    0.013     check[OK]        1  [Correct]               
+3-02                sol[OK]    0.013     check[OK]        1  [Correct]               
+3-03                sol[OK]    0.022     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+3-04                sol[OK]    0.016     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+3-05                sol[OK]    0.015     check[OK]        1  [Correct]               
+3-06                sol[OK]    0.019     check[OK]        1  [Correct]               
+3-07                sol[OK]    0.017     check[OK]        1  [Correct]               
+3-08                sol[OK]    0.017     check[OK]        1  [Correct]               
+3-09                sol[OK]    0.014     check[OK]        1  [Correct]               
+3-10                sol[OK]    0.018     check[OK]        1  [Correct]               
+3-11                sol[OK]    0.021     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+3-12                sol[OK]    0.019     check[OK]        1  [Correct]               
+3-13                sol[OK]    0.016     check[OK]        1  [Correct]               
+3-14                sol[OK]    0.022     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+3-15                sol[OK]    0.019     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+3-16                sol[OK]    0.020     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+3-17                sol[OK]    0.016     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+3-18                sol[OK]    0.021     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+3-19                sol[OK]    0.018     check[OK]        1  [Correct]               
+3-20                sol[OK]    0.015     check[OK]        1  [Correct]               
+3-21                sol[OK]    0.019     check[OK]        1  [Correct]               
+3-22                sol[OK]    0.021     check[OK]        1  [Correct]               
+3-23                sol[OK]    0.018     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+samples             [2/2 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
+sub1                [7/7 tests]    [Correct]             [9/9 pts]      [match with expected]             1-01
+sub2                [13/13 tests]  [Wrong Answer]        [0/28 pts]     [match with expected]             2-03
+all                 [23/23 tests]  [Wrong Answer]        [0/63 pts]     [match with expected]             3-03
+
+Subtask summary
+9/100 pts
 
 Finished.
 

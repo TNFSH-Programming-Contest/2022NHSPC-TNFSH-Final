@@ -21,7 +21,7 @@
         },
         "task2": {
             "index": 2,
-            "score": 20,
+            "score": 12,
             "text": "$1 \\leq n, q \\leq 1000$",
             "validators": [
                 "task2_val.cpp"
@@ -29,7 +29,7 @@
         },
         "task3": {
             "index": 3,
-            "score": 30,
+            "score": 38,
             "text": "對於事件3，$k = 1$",
             "validators": [
                 "task3_val.cpp"

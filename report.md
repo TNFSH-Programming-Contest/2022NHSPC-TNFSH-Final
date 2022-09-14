@@ -1,6 +1,8 @@
 
 ## Progress
 <!-- progress start -->
+- cover.tex [:x:](cover.tex)
+
 | | A | B | C | D | E | F |
 | --- | --- | --- | --- | --- | --- | --- |
 | contest_name |  [:white_check_mark:](pA/problem.json) | [:white_check_mark:](pB/problem.json) | [:white_check_mark:](pC/problem.json) | [:white_check_mark:](pD/problem.json) | [:white_check_mark:](pE/problem.json) | [:white_check_mark:](pF/problem.json) |
@@ -14,8 +16,9 @@
 | solution | [:white_check_mark:](pA/solution) | [:white_check_mark:](pB/solution) | [:white_check_mark:](pC/solution) | [:x:](pD/solution)<br>[correct.cpp](pD/solution/correct.cpp) | [:white_check_mark:](pE/solution) | [:white_check_mark:](pF/solution) |
 | validator | [:white_check_mark:](pA/validator) | [:white_check_mark:](pB/validator) | [:white_check_mark:](pC/validator) | [:x:](pD/validator)<br>[validator.cpp](pD/validator/validator.cpp) | [:white_check_mark:](pE/validator) | [:white_check_mark:](pF/validator) |
 | subtasks.json<br>global_validators |  [:white_check_mark:](pA/subtasks.json) | [:white_check_mark:](pB/subtasks.json) | [:white_check_mark:](pC/subtasks.json) | [:white_check_mark:](pD/subtasks.json) | [:white_check_mark:](pE/subtasks.json) | [:white_check_mark:](pF/subtasks.json) |
-| tests | [:white_check_mark:](pA/tests) | [:white_check_mark:](pB/tests) | [:white_check_mark:](pC/tests) | [:x:](pD/tests) | [:white_check_mark:](pE/tests) | [:white_check_mark:](pF/tests) |
-| statement | [:white_check_mark:](pA/statement/index.md) | [:white_check_mark:](pB/statement/index.md) | [:white_check_mark:](pC/statement/index.md) | [:x:](pD/statement/index.md) | [:white_check_mark:](pE/statement/index.md) | [:white_check_mark:](pF/statement/index.md) |
+| tests | [:white_check_mark:](pA/tests) | [:white_check_mark:](pB/tests) | [:white_check_mark:](pC/tests)<br>[Auto build disabled](pC/gen/DISABLE_AUTO_BUILD) | [:x:](pD/tests)<br>[Auto build disabled](pD/gen/DISABLE_AUTO_BUILD) | [:white_check_mark:](pE/tests) | [:white_check_mark:](pF/tests)<br>[Auto build disabled](pF/gen/DISABLE_AUTO_BUILD) |
+| statement/index.md | [:white_check_mark:](pA/statement/index.md) | [:white_check_mark:](pB/statement/index.md) | [:white_check_mark:](pC/statement/index.md) | [:x:](pD/statement/index.md) | [:white_check_mark:](pE/statement/index.md) | [:white_check_mark:](pF/statement/index.md) |
+| statement/index.pdf | [:white_check_mark:](pA/statement/index.pdf) | [:x:](pB/statement/index.pdf)<br>[Auto build disabled](pB/statement/DISABLE_AUTO_BUILD) | [:white_check_mark:](pC/statement/index.pdf)<br>[Auto build disabled](pC/statement/DISABLE_AUTO_BUILD) | [:x:](pD/statement/index.pdf)<br>[Auto build disabled](pD/statement/DISABLE_AUTO_BUILD) | [:white_check_mark:](pE/statement/index.pdf)<br>[Auto build disabled](pE/statement/DISABLE_AUTO_BUILD) | [:white_check_mark:](pF/statement/index.pdf)<br>[Auto build disabled](pF/statement/DISABLE_AUTO_BUILD) |
 <!-- progress end -->
 
 ## Subtasks

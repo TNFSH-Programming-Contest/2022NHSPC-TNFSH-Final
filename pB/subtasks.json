@@ -11,7 +11,7 @@
         },
         "sub1": {  
             "index": 1,
-            "score": 30,
+            "score": 26,
             "text": "1 \\leq N \\leq 10^{4}$",
             "validators": [
                 "validator-2.cpp"
@@ -19,7 +19,7 @@
         },
         "all": {
             "index": 2,
-            "score": 70,
+            "score": 74,
             "text": "無額外限制",
             "validators": []
         }

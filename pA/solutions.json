@@ -2,6 +2,9 @@
 	"ac.cpp": {
 		"verdict": "model_solution"
 	},
+	"ac2.cpp": {
+		"verdict": "correct"
+	},
 	"tle.cpp": {
 		"verdict": "partially_correct",
 		"except": {

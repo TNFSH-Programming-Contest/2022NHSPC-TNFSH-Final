@@ -1,6 +1,6 @@
 {
     "global_validators": [
-        "task4_val.cpp"
+        "task5_val.cpp"
     ],
     "subtasks": {
         "samples": {
@@ -8,7 +8,7 @@
             "score": 0,
             "text": "範例輸入輸出",
             "validators": [
-                "task4_val.cpp"
+                "task5_val.cpp"
             ]
         },
         "task1": {

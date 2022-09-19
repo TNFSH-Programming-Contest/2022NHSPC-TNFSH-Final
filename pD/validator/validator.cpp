@@ -13,7 +13,7 @@ typedef pair<int,int> pii;
 const int N = 2e5, Q = 2e5;
 
 int n, q;
-vector<vector<int>> G;
+vector<vector<int>> G(N);
 
 struct DSU
 {
@@ -52,7 +52,7 @@ int main() {
         G[v].pb(u);
         ensuref(u!=v, "u should no equal to v");
 
-        ensuref(dsu.find(u) == dsu.find(v), "cycle shoudn't exist");
+        ensuref(dsu.find(u) != dsu.find(v), "cycle shoudn't exist");
         dsu.U(u,v);
     }
 
@@ -65,5 +65,6 @@ int main() {
         int z = inf.readInt(1,n);
         inf.readEoln();
     }
+    inf.readEof();
 	return 0;
 }

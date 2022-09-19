@@ -7,11 +7,11 @@
 | | A | B | C | D | E | F |
 | --- | --- | --- | --- | --- | --- | --- |
 | contest_name |  [:white_check_mark:](pA/problem.json) | [:white_check_mark:](pB/problem.json) | [:white_check_mark:](pC/problem.json) | [:white_check_mark:](pD/problem.json) | [:white_check_mark:](pE/problem.json) | [:white_check_mark:](pF/problem.json) |
-| problem_label |  [:white_check_mark:](pA/problem.json) | [:white_check_mark:](pB/problem.json) | [:white_check_mark:](pC/problem.json) | [:x:](pD/problem.json) | [:white_check_mark:](pE/problem.json) | [:white_check_mark:](pF/problem.json) |
-| name |  [:white_check_mark:](pA/problem.json)<br>Kibasen | [:white_check_mark:](pB/problem.json)<br>Matryoshka | [:white_check_mark:](pC/problem.json)<br>StarHunter | [:x:](pD/problem.json) | [:white_check_mark:](pE/problem.json)<br>Pentagram | [:white_check_mark:](pF/problem.json)<br>Shopping |
-| title |  [:white_check_mark:](pA/problem.json)<br>騎馬打仗 | [:white_check_mark:](pB/problem.json)<br>馬特留什卡 | [:white_check_mark:](pC/problem.json)<br>星星獵手 | [:x:](pD/problem.json) | [:white_check_mark:](pE/problem.json)<br>五芒星 | [:white_check_mark:](pF/problem.json)<br>逛街 |
+| problem_label |  [:white_check_mark:](pA/problem.json) | [:white_check_mark:](pB/problem.json) | [:white_check_mark:](pC/problem.json) | [:white_check_mark:](pD/problem.json) | [:white_check_mark:](pE/problem.json) | [:white_check_mark:](pF/problem.json) |
+| name |  [:white_check_mark:](pA/problem.json)<br>Kibasen | [:white_check_mark:](pB/problem.json)<br>Matryoshka | [:white_check_mark:](pC/problem.json)<br>StarHunter | [:white_check_mark:](pD/problem.json)<br>easter | [:white_check_mark:](pE/problem.json)<br>Pentagram | [:white_check_mark:](pF/problem.json)<br>Shopping |
+| title |  [:white_check_mark:](pA/problem.json)<br>騎馬打仗 | [:white_check_mark:](pB/problem.json)<br>馬特留什卡 | [:white_check_mark:](pC/problem.json)<br>星星獵手 | [:white_check_mark:](pD/problem.json)<br>復活節彩蛋 | [:white_check_mark:](pE/problem.json)<br>五芒星 | [:white_check_mark:](pF/problem.json)<br>逛街 |
 | memory_limit |  512 | 512 | 512 | 512 | 512 | 512 |
-| time_limit |  2.0 | 1.0 | 1.0 | 1.0 | 2.0 | 1.0 |
+| time_limit |  2.0 | 1.0 | 1.0 | 2.0 | 2.0 | 1.0 |
 | has_checker |  False | False | False | False | False | False |
 | gen | [:white_check_mark:](pA/gen) | [:white_check_mark:](pB/gen) | [:white_check_mark:](pC/gen) | [:white_check_mark:](pD/gen) | [:white_check_mark:](pE/gen) | [:white_check_mark:](pF/gen) |
 | solution | [:white_check_mark:](pA/solution) | [:white_check_mark:](pB/solution) | [:white_check_mark:](pC/solution) | [:white_check_mark:](pD/solution) | [:white_check_mark:](pE/solution) | [:white_check_mark:](pF/solution) |

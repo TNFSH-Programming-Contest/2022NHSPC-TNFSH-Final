@@ -19,7 +19,7 @@ int isChain;
 int isStar;
 
 int n, q;
-pair<pii,int> queries;
+vector<pair<pii,int>> queries;
 vector<vector<int>> G(N);
 
 struct GenTree
@@ -138,5 +138,15 @@ signed main(signed argc, char* argv[]) {
             z = rnd_choose_from_path(l, x);
         else
             z = rnd.next(1LL, n);
+        queries.pb({{x,y},z});
     }
+
+    cout << n << ' ' << q << '\n';
+    vector<pii> edgs;
+    rep(u,1,n)
+        for (auto v: G[u])
+            edgs.pb((rnd.next(0,1)? make_pair(u,v):make_pair(v,u)));
+    shuffle(edgs.begin(), edgs.end());
+    for (auto e: edgs) cout << e.ff << ' ' << e.ss << '\n';
+    for (auto y: queries) cout << y.ff.ff << ' ' << y.ff.ss << ' ' << y.ss << '\n';
 }

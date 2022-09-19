@@ -24,7 +24,7 @@ struct DSU
     }
     int find(int i)
     {
-        return (p[i]==i? i:p[i]=find(i));
+        return (p[i]==i? i:p[i]=find(p[i]));
     }
     void U(int u, int v)
     {

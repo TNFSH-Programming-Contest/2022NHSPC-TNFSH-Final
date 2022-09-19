@@ -89,7 +89,6 @@ void gen_anc_pair(int &fa, int &u)
 
 int rnd_choose_from_path(int fa, int u) // x
 {
-    de(fa), de(u), de(lca.dep[fa]), de(lca.dep[u]), dd
     int gap = rnd.next(0LL, lca.dep[u]-lca.dep[fa]);
     for (int t=gap,j=0; t; t>>=1,j++)
         if (j&1)
@@ -142,8 +141,6 @@ signed main(signed argc, char* argv[]) {
         int z_on_path_ratio = 40;
         int mode = rnd.next(1,100);
         int l = lca.lca(x,y);
-
-        de(x), de(y), de(l), dd
 
         if (mode <= z_is_l_ratio)
             z = l;

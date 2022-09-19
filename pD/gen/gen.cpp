@@ -99,6 +99,12 @@ int rnd_choose_from_path(int fa, int u) // x
 
 signed main(signed argc, char* argv[]) {
 	registerGen(argc, argv, 1);
+
+    maxN = atoll(argv[1]);
+    maxQ = atoll(argv[2]);
+    isChain = atoll(argv[3]);
+    isStar = atoll(argv[4]);
+
     n = rnd.wnext(1LL, maxN, 5);
     q = rnd.wnext(1LL, maxQ, 5);
 

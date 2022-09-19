@@ -35,6 +35,7 @@
 - $1 \le n \le 2 \times 10^5$
 - $1 \le q \le 2 \times 10^5$
 - $1 \le u, v, x, y, z \le n$
+- $u \ne v$
 
 ## 子任務
 \subtasks

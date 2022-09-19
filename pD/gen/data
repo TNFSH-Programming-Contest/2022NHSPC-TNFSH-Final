@@ -6,7 +6,7 @@ manual example-2.in
 
 @include samples
 @subtask qn2
-gen 100 500 0 0 TRYWOMTBMV
+gen 5 100 0 0 TRYWOMTBMV
 gen 100 500 0 0 AOWIXBAKSX
 gen 100 500 0 0 MDJEWTLOYX
 gen 100 500 0 1 DOOPJMTCMS

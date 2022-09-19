@@ -9,9 +9,27 @@
             "text": "範例輸入輸出",
             "validators": []
         },
-        "full": {
+        "qn2": {
             "index": 1,
-            "score": 100,
+            "score": 13,
+            "text": "$n \\le 100$ 且 $q \\le 500$",
+            "validators": []
+        },
+        "qnlgn": {
+            "index": 2,
+            "score": 18,
+            "text":"$n,q \\le 1000$",
+            "validators": []
+        },
+        "chain": {
+            "index": 3,
+            "score": 17,
+            "text": "保證是一條鏈",
+            "validators": []
+        },
+        "full": {
+            "index": 4,
+            "score": 52,
             "text": "無額外限制",
             "validators": []
         }

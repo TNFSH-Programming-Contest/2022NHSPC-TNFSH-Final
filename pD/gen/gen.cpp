@@ -5,7 +5,7 @@
 #define pb push_back
 #define ff first
 #define ss second
-#define de(x) cout << #x << '=' << x << ", "
+#define de(x) cerr << #x << '=' << x << ", "
 #define dd cout << '\n';
 #define lyx ios::sync_with_stdio(0), cin.tie(0);
 using namespace std;
@@ -89,7 +89,7 @@ void gen_anc_pair(int &fa, int &u)
     u = fa = rnd.next(1LL, n);
     int gap = rnd.next(0LL,lca.dep[u]);
     for (int t=gap,j=0; t; t>>=1,j++)
-        if (j&1)
+        if (t&1)
             fa = lca.p[j][fa];
 }
 

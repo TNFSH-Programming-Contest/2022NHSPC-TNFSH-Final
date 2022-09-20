@@ -13,19 +13,19 @@
             "index": 1,
             "score": 13,
             "text": "$n \\le 100$ 且 $q \\le 500$",
-            "validators": []
+            "validators": ["qn2.cpp"]
         },
         "qnlgn": {
             "index": 2,
             "score": 18,
             "text":"$n,q \\le 1000$",
-            "validators": []
+            "validators": ["qnlgn.cpp"]
         },
         "chain": {
             "index": 3,
             "score": 17,
             "text": "保證是一條鏈",
-            "validators": []
+            "validators": ["chain.cpp"]
         },
         "full": {
             "index": 4,

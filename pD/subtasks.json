@@ -24,7 +24,7 @@
         "chain": {
             "index": 3,
             "score": 17,
-            "text": "保證是一條鏈",
+            "text": "存在冰屋 $s$、$t$，使得 $s$ 到 $t$ 的路徑包含所有冰屋。",
             "validators": ["chain.cpp"]
         },
         "full": {

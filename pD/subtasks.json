@@ -11,25 +11,25 @@
         },
         "qn2": {
             "index": 1,
-            "score": 13,
+            "score": 16,
             "text": "$n \\le 100$ 且 $q \\le 500$",
             "validators": ["qn2.cpp"]
         },
         "qnlgn": {
             "index": 2,
-            "score": 18,
+            "score": 22,
             "text":"$n,q \\le 1000$",
             "validators": ["qnlgn.cpp"]
         },
         "chain": {
             "index": 3,
-            "score": 17,
+            "score": 21,
             "text": "保證是一條鏈",
             "validators": ["chain.cpp"]
         },
         "full": {
             "index": 4,
-            "score": 52,
+            "score": 41,
             "text": "無額外限制",
             "validators": []
         }

@@ -1,10 +1,10 @@
 # 復活節彩蛋
 
-<!-- \begin{figure}[h]
+\begin{figure}[h]
 \centering
-\includegraphics[width=12cm]{TODO.jpg}
+\includegraphics[width=12cm]{img.jpg}
 \caption{女高中生報導員：小決、報瀨、日向、結月四人。出自動畫《比宇宙更遠的地方》}
-\end{figure} -->
+\end{figure}
 
 經過困難重重和各種因緣際會，小決、報瀨、日向、結月四人，終於跟著民間探險隊「南極挑戰」，踏上了比宇宙更遠的地方—南極。\
 在景色一成不變、感受不到時間流逝的南極，節日是非常被重視的。今天是復活節，南極挑戰的大家給小決、報瀨、日向、結月四人準備了找彩蛋的遊戲。

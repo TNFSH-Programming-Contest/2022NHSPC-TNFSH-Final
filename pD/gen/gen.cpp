@@ -21,6 +21,7 @@ int isStar;
 int n, q;
 vector<pair<pii,int>> queries;
 vector<vector<int>> G(N);
+vector<pii> edgs;
 
 struct GenTree
 {
@@ -29,7 +30,7 @@ struct GenTree
         int rt = rnd.next(1LL, n);
         rep(i,1,n)
             if (i != rt)
-                G[i].pb(rt);
+                G[i].pb(rt), G[rt].pb(i), edgs.pb({i,rt});
     }
     void genChain()
     {
@@ -37,7 +38,7 @@ struct GenTree
         rep(i,1,n) v.pb(i);
         shuffle(v.begin(), v.end());
         for (int i=1; i<v.size(); i++)
-            G[v[i]].pb(v[i-1]);
+            G[v[i]].pb(v[i-1]), G[v[i-1]].pb(v[i]), edgs.pb({v[i], v[i-1]});
     }
     void genTree()
     {
@@ -45,7 +46,12 @@ struct GenTree
         rep(i,1,n) v.pb(i);
         shuffle(v.begin(), v.end());
         for (int i=1; i<v.size(); i++)
-            G[v[i]].pb(v[rnd.next(0LL,i-1)]);
+        {
+            int x = v[i], y = v[rnd.next(0LL,i-1)];
+            G[x].pb(y);
+            G[y].pb(x);
+            edgs.pb({x,y});
+        }
     }
 } gt;
 
@@ -91,7 +97,7 @@ int rnd_choose_from_path(int fa, int u) // x
 {
     int gap = rnd.next(0LL, lca.dep[u]-lca.dep[fa]);
     for (int t=gap,j=0; t; t>>=1,j++)
-        if (j&1)
+        if (t&1)
             u = lca.p[j][u];
     return u;
 }
@@ -108,8 +114,6 @@ signed main(signed argc, char* argv[]) {
     n = rnd.wnext(1LL, maxN, 5);
     q = rnd.wnext(1LL, maxQ, 5);
 
-    cout << "owo\n";
-
     if (isChain)
     {
         gt.genChain();
@@ -122,8 +126,6 @@ signed main(signed argc, char* argv[]) {
     {
         gt.genTree();
     }
-
-    cout << "owo\n";
 
     lca.build(1);
 
@@ -152,11 +154,8 @@ signed main(signed argc, char* argv[]) {
     }
 
     cout << n << ' ' << q << '\n';
-    vector<pii> edgs;
-    rep(u,1,n)
-        for (auto v: G[u])
-            edgs.pb((rnd.next(0,1)? make_pair(u,v):make_pair(v,u)));
     shuffle(edgs.begin(), edgs.end());
+    for (auto &e: edgs) if (rnd.next(0,1)) swap(e.ff, e.ss);
     for (auto e: edgs) cout << e.ff << ' ' << e.ss << '\n';
     for (auto y: queries) cout << y.ff.ff << ' ' << y.ff.ss << ' ' << y.ss << '\n';
 }

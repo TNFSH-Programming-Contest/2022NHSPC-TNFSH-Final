@@ -108,8 +108,6 @@ signed main(signed argc, char* argv[]) {
     n = rnd.wnext(1LL, maxN, 5);
     q = rnd.wnext(1LL, maxQ, 5);
 
-    cout << "owo\n";
-
     if (isChain)
     {
         gt.genChain();
@@ -122,8 +120,6 @@ signed main(signed argc, char* argv[]) {
     {
         gt.genTree();
     }
-
-    cout << "owo\n";
 
     lca.build(1);
 

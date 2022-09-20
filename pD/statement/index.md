@@ -2,7 +2,7 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=12cm]{img.jpg}
+\includegraphics[width=12cm]{img.png}
 \caption{女高中生報導員：小決、報瀨、日向、結月四人。出自動畫《比宇宙更遠的地方》}
 \end{figure}
 

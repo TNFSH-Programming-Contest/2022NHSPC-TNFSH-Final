@@ -27,7 +27,7 @@
 
 
 ## 輸入限制
- - $1 \leq N \leq 10^6$
+ - $1 \leq N \leq 2 \times 10^6$
  - $1 \leq a_i \leq 10^9$
 
 ## 子任務

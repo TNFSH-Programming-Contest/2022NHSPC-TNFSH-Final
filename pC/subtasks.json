@@ -12,7 +12,7 @@
         "sub1": {
             "index": 1,
             "score": 49,
-            "text": "$1 \\leq T \\leq 10^{4}$",
+            "text": "$1 \\leq t \\leq 10^{4}$",
             "validators": [
                 "validator-2.cpp"
             ]

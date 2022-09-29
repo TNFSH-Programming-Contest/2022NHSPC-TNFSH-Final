@@ -18,7 +18,7 @@
         "qnlgn": {
             "index": 2,
             "score": 22,
-            "text":"$n,q \\le 1000$",
+            "text":"$n,~q \\le 1000$",
             "validators": ["qnlgn.cpp"]
         },
         "chain": {

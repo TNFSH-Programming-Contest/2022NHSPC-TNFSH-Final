@@ -1,47 +1,47 @@
 ac.cpp
 solution            compile[OK]
-0-01                sol[OK]    0.018     check[OK]        1  [Correct]               
-0-02                sol[OK]    0.017     check[OK]        1  [Correct]               
-1-01                sol[OK]    0.019     check[OK]        1  [Correct]               
-1-02                sol[OK]    0.018     check[OK]        1  [Correct]               
+0-01                sol[OK]    0.016     check[OK]        1  [Correct]               
+0-02                sol[OK]    0.015     check[OK]        1  [Correct]               
+1-01                sol[OK]    0.018     check[OK]        1  [Correct]               
+1-02                sol[OK]    0.016     check[OK]        1  [Correct]               
 1-03                sol[OK]    0.017     check[OK]        1  [Correct]               
-1-04                sol[OK]    0.021     check[OK]        1  [Correct]               
-1-05                sol[OK]    0.022     check[OK]        1  [Correct]               
-1-06                sol[OK]    0.019     check[OK]        1  [Correct]               
+1-04                sol[OK]    0.018     check[OK]        1  [Correct]               
+1-05                sol[OK]    0.017     check[OK]        1  [Correct]               
+1-06                sol[OK]    0.020     check[OK]        1  [Correct]               
 1-07                sol[OK]    0.019     check[OK]        1  [Correct]               
-1-08                sol[OK]    0.020     check[OK]        1  [Correct]               
-1-09                sol[OK]    0.019     check[OK]        1  [Correct]               
-1-10                sol[OK]    0.020     check[OK]        1  [Correct]               
+1-08                sol[OK]    0.016     check[OK]        1  [Correct]               
+1-09                sol[OK]    0.017     check[OK]        1  [Correct]               
+1-10                sol[OK]    0.019     check[OK]        1  [Correct]               
 1-11                sol[OK]    0.017     check[OK]        1  [Correct]               
-1-12                sol[OK]    0.019     check[OK]        1  [Correct]               
-1-13                sol[OK]    0.019     check[OK]        1  [Correct]               
-1-14                sol[OK]    0.018     check[OK]        1  [Correct]               
-1-15                sol[OK]    0.018     check[OK]        1  [Correct]               
-2-01                sol[OK]    0.590     check[OK]        1  [Correct]               
-2-02                sol[OK]    0.189     check[OK]        1  [Correct]               
-2-03                sol[OK]    0.825     check[OK]        1  [Correct]               
-2-04                sol[OK]    0.449     check[OK]        1  [Correct]               
-2-05                sol[OK]    0.706     check[OK]        1  [Correct]               
-2-06                sol[OK]    0.429     check[OK]        1  [Correct]               
-2-07                sol[OK]    0.908     check[OK]        1  [Correct]               
-2-08                sol[OK]    0.681     check[OK]        1  [Correct]               
-2-09                sol[OK]    0.267     check[OK]        1  [Correct]               
-2-10                sol[OK]    0.163     check[OK]        1  [Correct]               
-2-11                sol[OK]    0.886     check[OK]        1  [Correct]               
-2-12                sol[OK]    0.484     check[OK]        1  [Correct]               
-2-13                sol[OK]    0.816     check[OK]        1  [Correct]               
-2-14                sol[OK]    0.225     check[OK]        1  [Correct]               
-2-15                sol[OK]    0.754     check[OK]        1  [Correct]               
-2-16                sol[OK]    0.754     check[OK]        1  [Correct]               
-2-17                sol[OK]    0.595     check[OK]        1  [Correct]               
-2-18                sol[OK]    0.194     check[OK]        1  [Correct]               
-2-19                sol[OK]    0.202     check[OK]        1  [Correct]               
-2-20                sol[OK]    0.477     check[OK]        1  [Correct]               
-2-21                sol[OK]    0.402     check[OK]        1  [Correct]               
-2-22                sol[OK]    0.614     check[OK]        1  [Correct]               
-2-23                sol[OK]    0.853     check[OK]        1  [Correct]               
-2-24                sol[OK]    0.734     check[OK]        1  [Correct]               
-2-25                sol[OK]    0.606     check[OK]        1  [Correct]               
+1-12                sol[OK]    0.020     check[OK]        1  [Correct]               
+1-13                sol[OK]    0.016     check[OK]        1  [Correct]               
+1-14                sol[OK]    0.017     check[OK]        1  [Correct]               
+1-15                sol[OK]    0.019     check[OK]        1  [Correct]               
+2-01                sol[OK]    0.597     check[OK]        1  [Correct]               
+2-02                sol[OK]    0.191     check[OK]        1  [Correct]               
+2-03                sol[OK]    0.750     check[OK]        1  [Correct]               
+2-04                sol[OK]    0.457     check[OK]        1  [Correct]               
+2-05                sol[OK]    0.705     check[OK]        1  [Correct]               
+2-06                sol[OK]    0.394     check[OK]        1  [Correct]               
+2-07                sol[OK]    0.858     check[OK]        1  [Correct]               
+2-08                sol[OK]    0.682     check[OK]        1  [Correct]               
+2-09                sol[OK]    0.266     check[OK]        1  [Correct]               
+2-10                sol[OK]    0.143     check[OK]        1  [Correct]               
+2-11                sol[OK]    0.802     check[OK]        1  [Correct]               
+2-12                sol[OK]    0.481     check[OK]        1  [Correct]               
+2-13                sol[OK]    0.761     check[OK]        1  [Correct]               
+2-14                sol[OK]    0.222     check[OK]        1  [Correct]               
+2-15                sol[OK]    0.690     check[OK]        1  [Correct]               
+2-16                sol[OK]    0.767     check[OK]        1  [Correct]               
+2-17                sol[OK]    0.599     check[OK]        1  [Correct]               
+2-18                sol[OK]    0.161     check[OK]        1  [Correct]               
+2-19                sol[OK]    0.189     check[OK]        1  [Correct]               
+2-20                sol[OK]    0.484     check[OK]        1  [Correct]               
+2-21                sol[OK]    0.428     check[OK]        1  [Correct]               
+2-22                sol[OK]    0.609     check[OK]        1  [Correct]               
+2-23                sol[OK]    0.803     check[OK]        1  [Correct]               
+2-24                sol[OK]    0.699     check[OK]        1  [Correct]               
+2-25                sol[OK]    0.560     check[OK]        1  [Correct]               
 samples             [2/2 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
 sub1                [15/15 tests]  [Correct]             [26/26 pts]    [match with expected]             1-01
 all                 [25/25 tests]  [Correct]             [74/74 pts]    [match with expected]             2-01
@@ -53,48 +53,48 @@ Finished.
 
 tle.cpp
 solution            compile[OK]
-0-01                sol[OK]    0.018     check[OK]        1  [Correct]               
-0-02                sol[OK]    0.018     check[OK]        1  [Correct]               
-1-01                sol[OK]    0.020     check[OK]        1  [Correct]               
+0-01                sol[OK]    0.020     check[OK]        1  [Correct]               
+0-02                sol[OK]    0.021     check[OK]        1  [Correct]               
+1-01                sol[OK]    0.018     check[OK]        1  [Correct]               
 1-02                sol[OK]    0.017     check[OK]        1  [Correct]               
 1-03                sol[OK]    0.017     check[OK]        1  [Correct]               
-1-04                sol[OK]    0.022     check[OK]        1  [Correct]               
-1-05                sol[OK]    0.020     check[OK]        1  [Correct]               
-1-06                sol[OK]    0.019     check[OK]        1  [Correct]               
-1-07                sol[OK]    0.018     check[OK]        1  [Correct]               
+1-04                sol[OK]    0.020     check[OK]        1  [Correct]               
+1-05                sol[OK]    0.022     check[OK]        1  [Correct]               
+1-06                sol[OK]    0.017     check[OK]        1  [Correct]               
+1-07                sol[OK]    0.019     check[OK]        1  [Correct]               
 1-08                sol[OK]    0.017     check[OK]        1  [Correct]               
 1-09                sol[OK]    0.017     check[OK]        1  [Correct]               
-1-10                sol[OK]    0.018     check[OK]        1  [Correct]               
-1-11                sol[OK]    0.019     check[OK]        1  [Correct]               
-1-12                sol[OK]    0.020     check[OK]        1  [Correct]               
-1-13                sol[OK]    0.018     check[OK]        1  [Correct]               
-1-14                sol[OK]    0.017     check[OK]        1  [Correct]               
+1-10                sol[OK]    0.019     check[OK]        1  [Correct]               
+1-11                sol[OK]    0.017     check[OK]        1  [Correct]               
+1-12                sol[OK]    0.018     check[OK]        1  [Correct]               
+1-13                sol[OK]    0.016     check[OK]        1  [Correct]               
+1-14                sol[OK]    0.016     check[OK]        1  [Correct]               
 1-15                sol[OK]    0.019     check[OK]        1  [Correct]               
-2-01                sol[FAIL]  2.899     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
-2-02                sol[OK]    0.511     check[OK]        1  [Correct]               
-2-03                sol[FAIL]  3.011     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-2-04                sol[FAIL]  1.934     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
-2-05                sol[FAIL]  3.009     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-2-06                sol[FAIL]  1.687     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
-2-07                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-2-08                sol[FAIL]  3.009     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-2-09                sol[OK]    0.978     check[OK]        1  [Correct]               
-2-10                sol[OK]    0.384     check[OK]        1  [Correct]               
-2-11                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-2-12                sol[FAIL]  2.233     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
-2-13                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-2-14                sol[OK]    0.763     check[OK]        1  [Correct]               
-2-15                sol[FAIL]  3.009     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-2-16                sol[FAIL]  3.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-2-17                sol[FAIL]  2.827     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
-2-18                sol[OK]    0.503     check[OK]        1  [Correct]               
-2-19                sol[OK]    0.526     check[OK]        1  [Correct]               
-2-20                sol[FAIL]  1.974     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
-2-21                sol[FAIL]  1.699     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
-2-22                sol[FAIL]  2.789     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
-2-23                sol[FAIL]  3.009     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-2-24                sol[FAIL]  3.009     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '3.0'
-2-25                sol[FAIL]  2.728     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '1.0', with exit code '0'
+2-01                sol[FAIL]  2.857     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '2.0', with exit code '0'
+2-02                sol[OK]    0.530     check[OK]        1  [Correct]               
+2-03                sol[FAIL]  4.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '4.0'
+2-04                sol[OK]    1.896     check[OK]        1  [Correct]               
+2-05                sol[FAIL]  3.569     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '2.0', with exit code '0'
+2-06                sol[OK]    1.659     check[OK]        1  [Correct]               
+2-07                sol[FAIL]  4.007     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '4.0'
+2-08                sol[FAIL]  3.320     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '2.0', with exit code '0'
+2-09                sol[OK]    0.959     check[OK]        1  [Correct]               
+2-10                sol[OK]    0.366     check[OK]        1  [Correct]               
+2-11                sol[FAIL]  4.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '4.0'
+2-12                sol[FAIL]  2.200     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '2.0', with exit code '0'
+2-13                sol[FAIL]  4.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '4.0'
+2-14                sol[OK]    0.742     check[OK]        1  [Correct]               
+2-15                sol[FAIL]  3.888     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '2.0', with exit code '0'
+2-16                sol[FAIL]  4.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '4.0'
+2-17                sol[FAIL]  2.736     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '2.0', with exit code '0'
+2-18                sol[OK]    0.483     check[OK]        1  [Correct]               
+2-19                sol[OK]    0.568     check[OK]        1  [Correct]               
+2-20                sol[FAIL]  2.002     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '2.0', with exit code '0'
+2-21                sol[OK]    1.719     check[OK]        1  [Correct]               
+2-22                sol[FAIL]  2.731     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '2.0', with exit code '0'
+2-23                sol[FAIL]  4.008     check[SKIP]      0  [Time Limit Exceeded]   solution terminated after hard time limit '4.0'
+2-24                sol[FAIL]  3.827     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '2.0', with exit code '0'
+2-25                sol[FAIL]  2.728     check[SKIP]      0  [Time Limit Exceeded]   solution finished after time limit '2.0', with exit code '0'
 samples             [2/2 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
 sub1                [15/15 tests]  [Correct]             [26/26 pts]    [match with expected]             1-01
 all                 [25/25 tests]  [Time Limit Exceeded] [0/74 pts]     [match with expected]             2-01

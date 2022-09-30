@@ -22,7 +22,7 @@
         "task2": {
             "index": 2,
             "score": 12,
-            "text": "$1 \\leq n, q \\leq 1000$",
+            "text": "$1 \\leq n,~q \\leq 1000$",
             "validators": [
                 "task2_val.cpp"
             ]
@@ -30,7 +30,7 @@
         "task3": {
             "index": 3,
             "score": 26,
-            "text": "只有事件1,2,4",
+            "text": "只有事件1、2、4",
             "validators": [
                 "task3_val.cpp"
             ]

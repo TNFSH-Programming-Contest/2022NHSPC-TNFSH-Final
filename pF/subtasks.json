@@ -8,11 +8,11 @@
             "score": 0,
             "text": "範例輸入輸出",
             "validators": []
-        }, 
+        },
         "sub1": {
             "index": 1,
             "score": 9,
-            "text": "$k,m \\leq 20$",
+            "text": "$k,~m \\leq 20$",
             "validators": [
                 "validator-2.cpp"
             ]
@@ -20,7 +20,7 @@
         "sub2": {
             "index": 2,
             "score": 28,
-            "text": "$k,m \\leq 1000$",
+            "text": "$k,~m \\leq 1000$",
             "validators": [
                 "validator-3.cpp"
             ]

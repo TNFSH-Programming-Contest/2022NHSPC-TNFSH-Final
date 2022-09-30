@@ -1,3 +1,4 @@
+
 #include "testlib.h"
 #include<bits/stdc++.h>
 using namespace std;
@@ -50,7 +51,7 @@ int main(int argc,char *argv[]){
 	int q = inf.readInt(1,mxN, "q");
 	inf.readEoln();
 
-	validate_test(n,q,1,4);
+	validate_test(n,q,1,4,1);
 
 	inf.readEof();
 }

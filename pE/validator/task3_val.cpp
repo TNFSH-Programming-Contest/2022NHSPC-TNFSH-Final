@@ -1,3 +1,4 @@
+
 #include "testlib.h"
 #include<bits/stdc++.h>
 using namespace std;
@@ -13,15 +14,16 @@ void validate_test(int n,int q,int query_type_l,int query_type_r,int type3 = 0){
 	}
 	inf.readEoln();
 	while(q--){
-		int type = inf.readInt(1,4,"query type");
-        ensuref(type!=3, "find query 3.");
+		int type = inf.readInt(query_type_l, query_type_r, "query type");
 		inf.readSpace();
 		if(type==1){
-			inf.readInt(-V, V, "query 1");
+			int x = inf.readInt(-V, V, "query 1");
+			cnt[x]++;
 			n++;
 		}
 		else if(type==2){
-			inf.readInt(-V, V, "query 2");
+			int x = inf.readInt(-V, V, "query 2");
+			cnt[x]++;
 			n++;
 		}
 		else if(type==3){
@@ -49,7 +51,7 @@ int main(int argc,char *argv[]){
 	int q = inf.readInt(1,mxN, "q");
 	inf.readEoln();
 
-	validate_test(n,q,-1,-1);
+	validate_test(n,q,1,4,1);
 
 	inf.readEof();
 }

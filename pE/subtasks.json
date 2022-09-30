@@ -1,6 +1,6 @@
 {
     "global_validators": [
-        "task5_val.cpp"
+        "task4_val.cpp"
     ],
     "subtasks": {
         "samples": {
@@ -8,47 +8,39 @@
             "score": 0,
             "text": "範例輸入輸出",
             "validators": [
-                "task5_val.cpp"
+                "task4_val.cpp"
             ]
         },
         "task1": {
             "index": 1,
             "score": 5,
-            "text": "只有事件1及事件2",
+            "text": "只有第 $1$ 以及第 $2$ 種詢問",
             "validators": [
                 "task1_val.cpp"
             ]
         },
         "task2": {
             "index": 2,
-            "score": 12,
-            "text": "$1 \\leq n,~q \\leq 1000$",
+            "score": 20,
+            "text": "$1 \\leq n,q \\leq 1000$",
             "validators": [
                 "task2_val.cpp"
             ]
         },
         "task3": {
             "index": 3,
-            "score": 26,
-            "text": "只有事件1、2、4",
+            "score": 30,
+            "text": "$\\forall type = 3$ 的詢問， $t=1$",
             "validators": [
                 "task3_val.cpp"
             ]
         },
         "task4": {
             "index": 4,
-            "score": 38,
-            "text": "對於事件3，$k = 1$",
-            "validators": [
-                "task4_val.cpp"
-            ]
-        },
-        "task5": {
-            "index": 5,
-            "score": 19,
+            "score":45,
             "text": "無額外限制",
             "validators": [
-                "task5_val.cpp"
+                "task4_val.cpp"
             ]
         }
     }

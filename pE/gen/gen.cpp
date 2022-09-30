@@ -72,8 +72,6 @@ int main(int argc,char *argv[]){
 	else if(task_num==2)
 		n = 1000;
 	else if(task_num==3)
-		v = {1,2,4};
-	else if(task_num==4)
 		type3 = 1;
 	if(argv[2]=="max")
 		Mx = 1;

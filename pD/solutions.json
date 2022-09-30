@@ -1,5 +1,8 @@
 {
 	"correct.cpp": {
 		"verdict": "model_solution"
+	},
+	"little_pants_one_shot_ac_code.cpp": {
+		"verdict": "correct"
 	}
 }

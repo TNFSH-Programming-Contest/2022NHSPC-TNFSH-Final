@@ -55,3 +55,9 @@
 
 ## 範例輸出 2
 \testfile{0-02.out}
+
+## 範例輸入 3
+\testfile{0-03.in}
+
+## 範例輸出 3
+\testfile{0-03.out}

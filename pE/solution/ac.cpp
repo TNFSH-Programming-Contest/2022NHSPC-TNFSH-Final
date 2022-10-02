@@ -164,7 +164,7 @@ signed main(){
 		else if(op==2){
 			l--;
 			a[l] = id;
-			sgt.modify(0,3*N,0,2*N,1,1);
+			sgt.modify(0,3*N,0,3*N,1,1);
 			sgt2.modify(l,v[id]);
 			d_sgt[id].modify(0,3*N,l,1,root[id]);
 		}

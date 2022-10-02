@@ -27,19 +27,28 @@
                 "task2_val.cpp"
             ]
         },
-        "task4": {
+        "task3": {
             "index": 3,
+            "score": 26,
+            "text": "只有事件1、2、4",
+            "validators": [
+                "task3_val.cpp"
+            ]
+        },
+        "task4": {
+            "index": 4,
             "score": 38,
             "text": "對於事件3，$k = 1$",
             "validators": [
-                "task5_val.cpp"
+                "task4_val.cpp"
             ]
         },
         "task5": {
-            "index": 4,
-            "score": 45,
+            "index": 5,
+            "score": 19,
             "text": "無額外限制",
             "validators": [
+                "task5_val.cpp"
             ]
         }
     }

@@ -8,6 +8,7 @@
 			"samples": "correct",
 			"task1": "correct",
 			"task2": "correct",
+			"task3": "time_limit",
 			"task4": "time_limit",
 			"task5": "time_limit"
 		}

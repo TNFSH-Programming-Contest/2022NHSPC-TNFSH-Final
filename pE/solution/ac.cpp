@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
- 
+
 struct query{
 	int op,id,id2;
 	query(){}
@@ -8,7 +8,7 @@ struct query{
 		op = x, id = y, id2 = z;
 	}
 };
- 
+
 const int N = 1e5+5;
 int n,q;
 int a[3*N];
@@ -16,14 +16,14 @@ vector<int>v;
 
 int cnt;
 int dseg[N*70], L[N*70], R[N*70], root[N<<1|1];
- 
+
 inline int newNode(){
 	L[cnt] = -1;
 	R[cnt] = -1;
 	dseg[cnt] = 0;
 	return cnt++;
 }
- 
+
 struct dynamic_segtree{
 	void modify(int l,int r,int p,int v,int rt){
 		if(l==r){
@@ -62,7 +62,7 @@ struct segtree{
 	void push(int idx){
 		addTag(idx<<1,tag[idx]);
 		addTag(idx<<1|1,tag[idx]);
-		tag[idx] = 0; 
+		tag[idx] = 0;
 	}
 	void modify(int l,int r,int ql,int qr,int v,int idx){
 		if(l==ql && r==qr){
@@ -180,8 +180,13 @@ signed main(){
 			cout << sgt2.query(x,y) << '\n';
 		}
 	}
+	bool space = false;
 	for(int i=l;i<=r;i++)
-		if(a[i]!=-1)
-			cout << v[a[i]] << ' ';
+		if(a[i]!=-1) {
+			if(space)
+				cout << ' ';
+			space = true;
+			cout << v[a[i]];
+		}
 	cout << '\n';
 }
